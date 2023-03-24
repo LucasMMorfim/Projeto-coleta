@@ -19,13 +19,7 @@ Foram utilizadas as seguintes ferramentas para o desenvolvimento do projeto:
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JAVASCRIPT"/></code>
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NODEJS"/></code>
 
-## 💡 Como executar o projeto
-
 Esse projeto foi elaborado para web💻 </br>
-Para acessar basta clicar no link abaixo:</br>
-https://lucasmmorfim.github.io/Projeto-coleta/
-
-❗ Usando o Link acima pode ser que apareça bugs no projeto devido a plataforma do GITHUB ❗
 
 ## 📁 Como executar o projeto na sua maquina
 
